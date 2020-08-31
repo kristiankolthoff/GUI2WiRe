@@ -16,5 +16,5 @@ The figure shows an overview of the three main parts of <i>GUI2WiRe</i>. First, 
 
 ## References
 <p align="justify">
-Kristian Kolthoff, Christian Bartelt, and Simone Paolo Ponzetto. 2020. GUI2WiRe: Rapid Wireframing with a Mined and Large-Scale GUI Repository using Natural Language Requirements. In 35th IEEE/ACM International Conference on Automated Software Engineering (ASE ’20), September 21–25, 2020, Virtual Event, Australia. ACM, New York, NY, USA, 5 pages.https://doi.org/10.1145/3324884.3415289
+Kristian Kolthoff, Christian Bartelt, and Simone Paolo Ponzetto. 2020. GUI2WiRe: Rapid Wireframing with a Mined and Large-Scale GUI Repository using Natural Language Requirements. In 35th IEEE/ACM International Conference on Automated Software Engineering (ASE ’20), September 21–25, 2020, Virtual Event, Australia. ACM, New York, NY, USA, 5 pages. <a href="https://doi.org/10.1145/3324884.3415289" target="_blank">https://doi.org/10.1145/3324884.3415289</a>
  </p>
